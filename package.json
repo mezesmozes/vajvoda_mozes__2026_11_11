@@ -1,0 +1,28 @@
+{
+  "name": "vajvoda_mozes__2026_11_11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mezesmozes/vajvoda_mozes__2026_11_11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mezesmozes/vajvoda_mozes__2026_11_11/issues"
+  },
+  "homepage": "https://github.com/mezesmozes/vajvoda_mozes__2026_11_11#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "mysql2": "^3.24.6",
+    "nodemon": "^3.1.14"
+  }
+}
